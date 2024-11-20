@@ -119,6 +119,7 @@ Missing Technical Elements:
   - Proper use of technical terms
 
 ## Narrative Flow and Story Arc
+See detailed analysis in [Narrative Flow](NarrativeFlow.md)
 Current Issues:
 - Fragmented introduction narrative
 - Missing bridges between concepts
@@ -160,7 +161,7 @@ Current Issues:
 ## Next Steps
 Priority Areas:
 1. Address structural gaps (missing sections)
-2. Improve narrative flow in introduction and paper in general (see [Narrative Flow] (NarrativeFlow.md)
+2. Improve narrative flow in introduction and paper in general. See [Narrative Flow](NarrativeFlow.md)
 3. Standardize terminology
 4. Enhance technical clarity
 5. Add comprehensive security analysis
