@@ -59,33 +59,33 @@ The technical components need clearer narrative connection to:
 
 The paper lacks:
 
-1. A clear "hero's journey" - how HyperChains specifically overcomes the challenges presented
-2. A compelling "why now" element - what makes this solution particularly relevant
-3. A vision narrative - how this technology could transform blockchain usage
-4. Clear progression of actor relationships - how different roles interact within the story
-5. Environmental impact resolution - while energy concerns drive the initial problem statement, the solution's environmental benefits aren't clearly quantified or followed through
+- A clear "hero's journey" - how HyperChains specifically overcomes the challenges presented
+- A compelling "why now" element - what makes this solution particularly relevant
+- A vision narrative - how this technology could transform blockchain usage
+- Clear progression of actor relationships - how different roles interact within the story
+- Environmental impact resolution - while energy concerns drive the initial problem statement, the solution's environmental benefits aren't clearly quantified or followed through
 
 ## Suggested Narrative Structure
 
 The paper would benefit from restructuring its story to:
 
-1. Present the blockchain scaling trilemma
-2. Show how existing solutions fall short
-3. Introduce HyperChains as a novel approach combining the best of PoW and PoS
-4. Demonstrate how each technical component directly addresses specific challenges
-5. Present a vision of how this enables new blockchain applications
-6. Demonstrate the environmental benefits through concrete analysis (if applicable)
-7. Tell the story of the system's actors and their relationships
-8. Show how the economic model creates a sustainable ecosystem
-9. Present real-world applications and impact scenarios
+- Present the blockchain scaling trilemma
+- Show how existing solutions fall short
+- Introduce HyperChains as a novel approach combining the best of PoW and PoS
+- Demonstrate how each technical component directly addresses specific challenges
+- Present a vision of how this enables new blockchain applications
+- Demonstrate the environmental benefits through concrete analysis (if applicable)
+- Tell the story of the system's actors and their relationships
+- Show how the economic model creates a sustainable ecosystem
+- Present real-world applications and impact scenarios
 
 ## Recommended Flow Improvements
 
 The narrative should:
 
-1. Maintain the environmental thread throughout (if retained as a key benefit)
-2. Use the glossary's actor relationships to humanize technical concepts
-3. Connect each technical innovation to specific problem solutions
-4. Build toward a compelling vision of practical applications
-5. Demonstrate both technical and environmental sustainability
+- Maintain the environmental thread throughout (if retained as a key benefit)
+- Use the glossary's actor relationships to humanize technical concepts
+- Connect each technical innovation to specific problem solutions
+- Build toward a compelling vision of practical applications
+- Demonstrate both technical and environmental sustainability
 ```
